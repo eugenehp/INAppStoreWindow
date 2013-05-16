@@ -64,13 +64,8 @@
  */
 @property (nonatomic) BOOL verticalTrafficLightButtons;
 
-/**
- Whether the title is centred vertically
- */
-@property (nonatomic) BOOL verticallyCenterTitle;
-
-/**
- If you want to hide the title bar in fullscreen mode, set this boolean to YES
+/** 
+ If you want to hide the title bar in fullscreen mode, set this boolean to YES 
  */
 @property (nonatomic) BOOL hideTitleBarInFullScreen;
 
